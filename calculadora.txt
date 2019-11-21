@@ -23,6 +23,11 @@
 //función multiplicación(a*b)
 ...
 
+Int a = 3;
+Int b = 9;
+Int c = b*a;
+
+ 
 
 
 
