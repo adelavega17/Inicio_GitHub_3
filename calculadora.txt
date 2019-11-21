@@ -8,7 +8,7 @@
 
 
 
-//función suma (a+b)
+//funciï¿½n suma (a+b)
 
 return a+b;
 
@@ -17,24 +17,24 @@ return a+b;
 
 
 
-//función resta (a-b)
+//funciï¿½n resta (a-b)
 ...
 
 
 
 
-//función multiplicación(a*b)
+//funciï¿½n multiplicaciï¿½n(a*b)
 ...
 
 Int a = 3;
 Int b = 9;
 Int c = b*a;
 
- 
+ return c;
 
 
 
-//función dividisión
+//funciï¿½n dividisiï¿½n
 ...
 
 
