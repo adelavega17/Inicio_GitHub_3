@@ -8,25 +8,25 @@
 
 
 
-//función suma (a+b)
+//funciï¿½n suma (a+b)
 ...
 
 
 
 
-//función resta (a-b)
+//funciï¿½n resta (a-b)
 ...
 
 
 
 
-//función multiplicación(a*b)
-...
+//funciï¿½n multiplicaciï¿½n(a*b)
+...return a*b
 
 
 
 
-//función dividisión
+//funciï¿½n dividisiï¿½n
 ...
 
 
