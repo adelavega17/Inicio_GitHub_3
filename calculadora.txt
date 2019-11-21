@@ -9,12 +9,11 @@
 
 
 //funci�n suma (a+b)
-public int(int[] ab]){
+public static int(int[] ab]){
 	result = 0;
 	for a in ab:
 		result+= a;
 	return result;
-
 }
 ...
 
