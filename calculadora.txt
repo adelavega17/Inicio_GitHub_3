@@ -8,6 +8,8 @@
 
 
 
+//funci�n suma (a+b)
+>>>>>>> e53d17f06af6331701cf64d1f7640b0c1589f227
 
 //funci�n suma (a+b)
 
@@ -24,8 +26,14 @@
 
 //funci�n multiplicaci�n(a*b)
 ...return a*b
+...
 
 
+Int a = 3;
+Int b = 9;
+Int c = b*a;
+
+ return c;
 
 
 //funci�n dividisi�n
