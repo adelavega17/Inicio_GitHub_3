@@ -9,7 +9,9 @@
 
 
 //funci�n suma (a+b)
-return a+b;
+public int(int a, int b){
+	return(a+b);
+}
 ...
 
 
