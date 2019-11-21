@@ -9,7 +9,6 @@
 
 
 //funci�n suma (a+b)
->>>>>>> e53d17f06af6331701cf64d1f7640b0c1589f227
 
 //funci�n suma (a+b)
 
