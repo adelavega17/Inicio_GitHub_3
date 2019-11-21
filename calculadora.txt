@@ -7,7 +7,6 @@
 
 
 
-
 //funci�n suma (a+b)
 public int(int[] ab]){
 	result = 0;
@@ -29,7 +28,6 @@ public int(int[] ab]){
 
 //funci�n multiplicaci�n(a*b)
 ...return a*b
-...
 
 
 Int a = 3;
